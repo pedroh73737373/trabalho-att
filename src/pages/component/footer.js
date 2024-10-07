@@ -1,3 +1,3 @@
 export default function Footer() {
-    return <div>IFMS-Dourados</div>
+    return <div className="bg-primary-subtle">IFMS-Dourados</div>
 }
